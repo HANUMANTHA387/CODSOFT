@@ -1,0 +1,92 @@
+*{
+    background: -o-linear-gradient(red ,blue ,green);
+}
+.longo{
+    width: 80px;
+    height: 50px;
+    border-radius: 45px;
+}
+.ontnav{
+    color: #ffffff;
+}
+.ayana{
+    width: 200px;
+    border: rgb(50, 48, 48);
+    border-radius: 140px;
+    margin-left: 90px;
+    margin-top: 100px;
+}
+.pone{
+    font-size: 25px;
+    color: rgb(82, 80, 80);
+}
+.name{
+    margin-top: 50px;
+}
+.yeruva{
+    color: #211337;
+    padding-top: 200px; 
+    margin-left: 30px;
+    padding-left: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+.b-d{
+    background-color: black;
+}
+.foent{
+    font-size: 20px;
+    padding-top: 17px;
+}
+.bord{
+    border: none;
+    margin: 15px;
+    text-align: center;
+    border-radius: 8px;
+}
+.bord-t{
+    border: none;
+    margin: 15px;
+    text-align: center;
+    border-radius: 9px;
+}
+.text{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.about{
+    padding: 10px;
+    padding-left: 40px;
+    margin: 3px;
+    margin-top: 100px;
+}
+.mysw{
+    padding: 40px;
+}
+.sbo{
+    padding-left: 22px;
+}
+.fonet{
+    font-size: 22px;
+    padding-top: 1px;
+}
+.fonat{
+    font-size: 22px;
+    padding-top: 10px;
+    margin-top: 28px;
+}
+.mar{
+    margin: 10px;
+}
+.ico{
+    background-color: black;
+    background-size: cover;
+}
+
+.hp{
+    size: 6px;
+    border-radius: 30%;
+    color : blue
+}
