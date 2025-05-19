@@ -1,0 +1,70 @@
+.omg{
+    border-radius: 305px;
+    background-color: #F5F5DC;
+    width: 250px;
+    height: 250px;
+    margin-right: 100px;
+    margin-right: 130px;
+}
+.maint{
+    margin: 20spx;
+    margin-top: 10px;
+    border-radius: 40px;
+    background-color: #F5F5DC;
+}
+.land{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.pathis{
+    font-size: 20px;
+    margin-left: 35px;
+    font-family: ROBOTO;
+}
+.text{
+    text-align: center;
+    margin-top: 65px;
+}
+.abt{
+    margin: 20px;
+    margin-top: 5px;
+}
+.per{
+    margin-top: 90px;
+    font-size: 17px;
+}
+.ico{
+    background-color: black;
+    background-size: cover;
+}
+.mar{
+    margin: 10px;
+}
+.foent{
+    font-size: 23px;
+    padding-top: 19px;
+    margin-top: 10px;
+}
+.tx-al{
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+.in-wid{
+    width: 400px;
+    margin-left: 1px;
+}
+.padd{
+    padding: 10px;
+    margin-top: 1px;
+    margin: 10px;
+}
+.br-rd{
+    border-radius: 20px;
+}
